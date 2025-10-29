@@ -1,5 +1,3 @@
-﻿using System.Xml.Linq;
-
 struct Person
 {
     public string name;
